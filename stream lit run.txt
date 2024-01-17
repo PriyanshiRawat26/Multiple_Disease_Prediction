@@ -1,0 +1,1 @@
+streamlit run "C:\Users\herry\OneDrive\Desktop\New folder\multiple_disease.py"
